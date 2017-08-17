@@ -1,0 +1,27 @@
+/* background colors */
+
+.green {
+    background-color: #2ABF63;
+}
+
+.light-green {
+    background-color: #AEF2C8;
+}
+
+.dark-green {
+    background-color: #438C2D;
+}
+
+.light-purple {
+    background-color: #8D5799;
+}
+
+.purple {
+    background-color: #7B2ABF;
+}
+
+/* formatting */
+
+.content-block {
+    padding: 100px 15px;
+}
